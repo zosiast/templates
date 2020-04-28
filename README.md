@@ -33,3 +33,5 @@ subplot_figs_with_legend: figure with 6 subplots, axes and labels on outside of 
 vertical_profile: variable vs altitude, for single latitude, mulitple latitudes and binned latitudes
 
 zonal_mean: zonal mean from netcdf data
+
+tracer_vert_profile_compare: whole script for reading in obs and model data and making plots for each latitude bin, and seasonal analysis.
