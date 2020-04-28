@@ -17,6 +17,10 @@ trop_mask: uses pressure field to make trop mask
 
 ch4_lifetime_oh: uses ch4, trop mask, flux of OH_CH4 reaction, airmass to calculate lifetime of ch4 wrt OH
 
+excel_to_pandas: reads in excel sheet and exports csv
+
+get_monthly_data_lat_bin: chunk data by month, select seasons, bin by latitude
+
 ### Plotting
 cf_global_contours: using cf to plot world map of variable. Includes collapse function to mean over time.
 
