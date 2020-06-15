@@ -1,4 +1,5 @@
-# templates
+#
+templates
 Python scripts for doing basic processing, calculations and plotting
 
 ## Python template scripts for basic functions
@@ -35,3 +36,5 @@ vertical_profile: variable vs altitude, for single latitude, mulitple latitudes 
 zonal_mean: zonal mean from netcdf data
 
 tracer_vert_profile_compare: whole script for reading in obs and model data and making plots for each latitude bin, and seasonal analysis.
+
+gantt_chart: make gantt chart. Also using different plot styles
